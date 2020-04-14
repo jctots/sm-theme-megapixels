@@ -1,6 +1,7 @@
 Megapixels theme for [SimpleMenu](https://github.com/fgl82/simplemenu)
 ---
 
+![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Megapixels/resources/32x/logo.png) ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Megapixels/resources/psx/logo.png)
 ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Previews/screenshot001.png) ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Previews/screenshot002.png)
 ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Previews/screenshot003.png) ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Previews/screenshot004.png)
 ![Screenshot](https://raw.githubusercontent.com/westoncampbell/sm-theme-megapixels/master/Previews/screenshot005.png)
