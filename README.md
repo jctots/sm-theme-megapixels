@@ -11,5 +11,7 @@ Megapixels is optimized for resolutions up to 320x240.
 
 **Changelog**
 ---
+* **Apr 14, 2020 - Revision 2**
+  * Added system images for traditional layout
 * **Apr 14, 2020 - Revision 1**
   * Initial release
